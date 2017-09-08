@@ -16,3 +16,6 @@ sudo apt -f install <br/><br/>
 
 //run lazarus-ide <br/>
 lazarus-ide & <br/><br/>
+
+
+//projected is located in ~/Applications/PascalIDE <br/><br/>

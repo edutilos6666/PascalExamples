@@ -113,9 +113,68 @@ type
 var
    w1, w2: Worker;
 
+
+var w3: Worker ;
+
+
+type
+    SimpleMath = class
+       private
+          n1, n2:real;
+
+      public
+            constructor create(_n1:real; _n2:real);
+            function add():real;
+            function subtract():real;
+            function multiply():real;
+            function divide():real;
+    end;
+
+constructor SimpleMath.create(_n1:real; _n2:real);
+begin
+     n1 := _n1;
+     n2 := _n2;
+   end;
+
+function SimpleMath.add():real;
+begin
+     add := (n1 +  n2);
+end;
+
+function SimpleMath.subtract():real;
+begin
+   subtract := n1 - n2;
+end;
+
+function SimpleMath.multiply():real;
+begin
+    multiply := n1*n2;
+end;
+
+function SimpleMath.divide():real;
+begin
+   divide := n1 / n2 ;
+end;
+
+var
+    sm:SimpleMath;
+    n1 , n2:real;
+    resAdd , resSubtract , resMultiply, resDivide :real;
+
 begin
   w1 := Worker.create(1, 'foo', 10, 100.0, true);
   w1.printProps();
   writeln(w1.toString());
+  writeln('enter n1 and n2: ');
+  readln(n1,n2);
+  sm := SimpleMath.create(n1, n2);
+  resAdd := sm.add();
+  resSubtract := sm.subtract();
+  resMultiply := sm.multiply();
+  resDivide := sm.divide();
+  writeln('resAdd = ', resAdd);
+  writeln('resSubtract = ', resSubtract);
+  writeln('resMultiply = ', resMultiply);
+  writeln('resDivide = ', resDivide);
 end.
 
