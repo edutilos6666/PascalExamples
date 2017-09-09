@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="PascalExample3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="35" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="PascalExample3.lpr"/>
+        <Caret Line="8" Column="27"/>
+      </Position1>
+      <Position2>
+        <Filename Value="PascalExample3.lpr"/>
+        <Caret Line="33" Column="45"/>
+      </Position2>
+      <Position3>
+        <Filename Value="PascalExample3.lpr"/>
+        <Caret Line="9" Column="24"/>
+      </Position3>
+      <Position4>
+        <Filename Value="PascalExample3.lpr"/>
+        <Caret Line="8" Column="37"/>
+      </Position4>
+      <Position5>
+        <Filename Value="PascalExample3.lpr"/>
+        <Caret Line="9" Column="25"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

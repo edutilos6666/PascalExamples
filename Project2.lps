@@ -3,16 +3,24 @@
   <ProjectSession>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="1">
+    <Units Count="2">
       <Unit0>
         <Filename Value="Project2.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="32"/>
-        <CursorPos X="28" Y="34"/>
+        <CursorPos X="38" Y="9"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
+      <Unit1>
+        <Filename Value="project3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Project3"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="97" Y="4"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
     </Units>
     <JumpHistory Count="4" HistoryIndex="3">
       <Position1>

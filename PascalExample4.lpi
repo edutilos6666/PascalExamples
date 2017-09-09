@@ -9,7 +9,7 @@
       </Flags>
       <SessionStorage Value="InProjectDir"/>
       <MainUnit Value="0"/>
-      <Title Value="Project2"/>
+      <Title Value="PascalExample4"/>
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
@@ -32,20 +32,20 @@
     </RunParams>
     <Units Count="2">
       <Unit0>
-        <Filename Value="Project2.lpr"/>
+        <Filename Value="PascalExample4.lpr"/>
         <IsPartOfProject Value="True"/>
       </Unit0>
       <Unit1>
-        <Filename Value="project3.pas"/>
+        <Filename Value="pascalexample4_unit1.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="Project3"/>
+        <UnitName Value="PascalExample4_unit1"/>
       </Unit1>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
     <Version Value="11"/>
     <Target>
-      <Filename Value="Project2"/>
+      <Filename Value="PascalExample4"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
