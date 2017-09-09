@@ -30,7 +30,7 @@
         <FormatVersion Value="1"/>
       </local>
     </RunParams>
-    <Units Count="10">
+    <Units Count="20">
       <Unit0>
         <Filename Value="PascalExample5.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -80,6 +80,56 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="StringExample"/>
       </Unit9>
+      <Unit10>
+        <Filename Value="arrayexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ArrayExample"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="pointerexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PointerExample"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="recordexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="RecordExample"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="variantexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VariantExample"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="setexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SetExample"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="fileexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FileExample"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="datetimeexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DateTimeExample"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="interfaceexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="InterfaceExample"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="abstractclassexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AbstractClassExample"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="inheritanceexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="InheritanceExample"/>
+      </Unit19>
     </Units>
   </ProjectOptions>
   <CompilerOptions>

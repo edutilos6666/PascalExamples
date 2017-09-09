@@ -2,7 +2,9 @@ program PascalExample5;
 
 uses PascalExample5_unit1, SomeCustomClasses, ArithmeticOperators,
 RelationalOperators, BooleanOperators, DecisionMaking, Looping,
-LocalAndGlobalVariables, StringExample;
+LocalAndGlobalVariables, StringExample, ArrayExample, PointerExample,
+RecordExample, VariantExample, SetExample, FileExample, DateTimeExample,
+InterfaceExample, AbstractClassExample, InheritanceExample;
 
 var
     sm:SimpleMath;
@@ -30,9 +32,44 @@ var
     (* Looping *)
     looper:LoopRunnner;
     (* LocalAndGlobalVariables *)
-     localAndGlobalClazz :LocalAndGlobal;
-     (* StringExample *)
-      strExampleInstance: StringExampleClazz;
+    localAndGlobalClazz :LocalAndGlobal;
+    (* StringExample *)
+    strExampleInstance: StringExampleClazz;
+
+    (* ArrayExample *)
+    arrayExampleInstance: ArrayExampleClazz;
+
+    (* PointerExample *)
+    pointerExampleInstance: PointerExampleClazz;
+
+
+    (* RecordExample *)
+    recordExampleInstance: RecordExampleClazz;
+
+    (* VariantExample *)
+    variantExampleInstance:VariantExampleClazz;
+
+
+    (* SetExample *)
+    setExampleInstance: SetExampleClazz;
+
+
+    (* FileExample *)
+    fileExampleInstance : FileExampleClazz;
+
+    (* DateTimeExample *)
+    dateTimeExampleInstance : DateTimeExampleClazz;
+
+    (* InterfaceExample *)
+    interfaceExampleInstance :InterfaceExampleClazz;
+
+    (* AbstractClassExample *)
+    abstractClassExampleInstance :AbstractClassExampleClazz;
+
+    (* InheritanceExample *)
+    inheritanceExampleInstance :InheritanceExampleClazz;
+
+
 
 begin
     x := 10.0 ;
@@ -155,5 +192,90 @@ begin
     strExampleInstance := StringExampleClazz.create();
     strExampleInstance.example1();
 
+    (* ArrayExample *)
+    writeln('');
+    arrayExampleInstance := ArrayExampleClazz.create();
+    arrayExampleInstance.example1();
+    writeln();
+    arrayExampleInstance.example2();
+    writeln();
+    arrayExampleInstance.example3();
+    writeln();
+    arrayExampleInstance.example4();
+    writeln();
+    arrayExampleInstance.example5();
+    writeln();
+    arrayExampleInstance.example6();
+
+
+    (* PointerExample *)
+    pointerExampleInstance := PointerExampleClazz.create();
+    pointerExampleInstance.example1();
+    writeln();
+    pointerExampleInstance.example2();
+
+
+
+    (* RecordExample *)
+    writeln();
+    recordExampleInstance := RecordExampleClazz.create();
+    recordExampleInstance.example1();
+    writeln();
+    recordExampleInstance.example2();
+    writeln();
+    recordExampleInstance.example3();
+
+
+     (* VariantExample *)
+     writeln();
+     variantExampleInstance := VariantExampleClazz.create();
+     variantExampleInstance.example1();
+     writeln();
+     variantExampleInstance.example2();
+
+
+    (* SetExample *)
+    writeln();
+    setExampleInstance := SetExampleClazz.create();
+    setExampleInstance.example1();
+    writeln();
+    setExampleInstance.example2();
+
+
+
+    (* FileExample *)
+    fileExampleInstance := FileExampleClazz.create();
+    fileExampleInstance.example1();
+    writeln();
+    fileExampleInstance.example2();
+    writeln();
+    fileExampleInstance.example3();
+    writeln();
+    fileExampleInstance.example4();
+    writeln();
+    fileExampleInstance.example5();
+
+
+    (* DateTimeExample *)
+    dateTimeExampleInstance := DateTimeExampleClazz.create();
+    dateTimeExampleInstance.example1();
+
+    (* InterfaceExample *)
+    writeln();
+    interfaceExampleInstance := interfaceExampleClazz.create();
+    interfaceExampleInstance.example1();
+
+
+    (* AbstractClassExample *)
+    writeln();
+    writeln();
+    writeln();
+    abstractClassExampleInstance := AbstractClassExampleClazz.create();
+    abstractClassExampleInstance.example1();
+
+
+    (* InheritanceExample *)
+    inheritanceExampleInstance := InheritanceExampleClazz.create();
+    inheritanceExampleInstance.example1();
 end.
 

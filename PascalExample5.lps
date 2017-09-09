@@ -3,13 +3,14 @@
   <ProjectSession>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="10">
+    <Units Count="20">
       <Unit0>
         <Filename Value="PascalExample5.lpr"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="117"/>
-        <CursorPos X="51" Y="146"/>
-        <UsageCount Value="20"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="240"/>
+        <CursorPos X="43" Y="279"/>
+        <UsageCount Value="28"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -18,7 +19,7 @@
         <UnitName Value="PascalExample5_unit1"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="45" Y="26"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="28"/>
       </Unit1>
       <Unit2>
         <Filename Value="somecustomclasses.pas"/>
@@ -27,7 +28,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="32"/>
         <CursorPos X="83" Y="219"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="28"/>
       </Unit2>
       <Unit3>
         <Filename Value="arithmeticoperators.pas"/>
@@ -35,7 +36,7 @@
         <UnitName Value="ArithmeticOperators"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="17" Y="66"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="28"/>
       </Unit3>
       <Unit4>
         <Filename Value="relationaloperators.pas"/>
@@ -43,7 +44,7 @@
         <UnitName Value="RelationalOperators"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="36" Y="40"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="28"/>
       </Unit4>
       <Unit5>
         <Filename Value="booleanoperators.pas"/>
@@ -51,105 +52,263 @@
         <UnitName Value="BooleanOperators"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="22" Y="85"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="28"/>
       </Unit5>
       <Unit6>
         <Filename Value="decisionmaking.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="DecisionMaking"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="115"/>
         <CursorPos X="15" Y="143"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+        <UsageCount Value="28"/>
       </Unit6>
       <Unit7>
         <Filename Value="looping.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Looping"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="46" Y="110"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+        <UsageCount Value="28"/>
       </Unit7>
       <Unit8>
         <Filename Value="localandglobalvariables.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="LocalAndGlobalVariables"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="15"/>
         <CursorPos X="35" Y="19"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+        <UsageCount Value="28"/>
       </Unit8>
       <Unit9>
         <Filename Value="stringexample.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="StringExample"/>
-        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="72"/>
+        <CursorPos X="57" Y="91"/>
+        <UsageCount Value="28"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="arrayexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ArrayExample"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="6"/>
+        <UsageCount Value="28"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="pointerexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PointerExample"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="54" Y="21"/>
+        <UsageCount Value="26"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="recordexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="RecordExample"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="30" Y="134"/>
+        <UsageCount Value="26"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="variantexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VariantExample"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="35" Y="61"/>
+        <UsageCount Value="25"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="setexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SetExample"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="47" Y="10"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="fileexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FileExample"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="17" Y="3"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="datetimeexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DateTimeExample"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="42" Y="8"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="interfaceexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="InterfaceExample"/>
         <EditorIndex Value="4"/>
-        <CursorPos X="45" Y="36"/>
+        <TopLine Value="120"/>
+        <CursorPos Y="134"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="abstractclassexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AbstractClassExample"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="29" Y="121"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="inheritanceexample.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="InheritanceExample"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="101"/>
+        <CursorPos X="15" Y="135"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
-      </Unit9>
+      </Unit19>
     </Units>
-    <JumpHistory Count="14" HistoryIndex="13">
+    <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="36" Column="5"/>
+        <Caret Line="57" Column="16" TopLine="34"/>
       </Position1>
       <Position2>
-        <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="35" Column="6"/>
+        <Filename Value="fileexample.pas"/>
+        <Caret Line="126" Column="19" TopLine="90"/>
       </Position2>
       <Position3>
-        <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="46" Column="60" TopLine="7"/>
+        <Filename Value="fileexample.pas"/>
+        <Caret Line="167" Column="4" TopLine="128"/>
       </Position3>
       <Position4>
-        <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="65" Column="68" TopLine="26"/>
+        <Filename Value="datetimeexample.pas"/>
+        <Caret Line="25" Column="42"/>
       </Position4>
       <Position5>
         <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="71" Column="45" TopLine="35"/>
+        <Caret Line="60" Column="28" TopLine="43"/>
       </Position5>
       <Position6>
-        <Filename Value="PascalExample5.lpr"/>
-        <Caret Line="91" Column="40" TopLine="52"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="14" Column="30"/>
       </Position6>
       <Position7>
-        <Filename Value="decisionmaking.pas"/>
-        <Caret Line="77" Column="39" TopLine="38"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="28" Column="8"/>
       </Position7>
       <Position8>
-        <Filename Value="decisionmaking.pas"/>
-        <Caret Line="120" Column="55" TopLine="84"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="69" Column="42" TopLine="36"/>
       </Position8>
       <Position9>
-        <Filename Value="decisionmaking.pas"/>
-        <Caret Line="124" Column="12" TopLine="90"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="27" Column="35" TopLine="7"/>
       </Position9>
       <Position10>
-        <Filename Value="decisionmaking.pas"/>
-        <Caret Line="122" Column="12" TopLine="90"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="36" Column="37" TopLine="16"/>
       </Position10>
       <Position11>
-        <Filename Value="looping.pas"/>
-        <Caret Line="88" Column="19" TopLine="47"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="37" Column="33" TopLine="16"/>
       </Position11>
       <Position12>
-        <Filename Value="looping.pas"/>
-        <Caret Line="72" TopLine="55"/>
+        <Filename Value="interfaceexample.pas"/>
+        <Caret Line="27" Column="45" TopLine="7"/>
       </Position12>
       <Position13>
-        <Filename Value="looping.pas"/>
-        <Caret Line="107" Column="17" TopLine="67"/>
+        <Filename Value="PascalExample5.lpr"/>
+        <Caret Line="63" TopLine="36"/>
       </Position13>
       <Position14>
-        <Filename Value="localandglobalvariables.pas"/>
-        <Caret Line="22" Column="21"/>
+        <Filename Value="PascalExample5.lpr"/>
+        <Caret Line="260" Column="40" TopLine="221"/>
       </Position14>
+      <Position15>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="13" Column="13"/>
+      </Position15>
+      <Position16>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="14" Column="14"/>
+      </Position16>
+      <Position17>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="32" Column="22"/>
+      </Position17>
+      <Position18>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="34" Column="22" TopLine="11"/>
+      </Position18>
+      <Position19>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="33" Column="39" TopLine="20"/>
+      </Position19>
+      <Position20>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="62" Column="4" TopLine="24"/>
+      </Position20>
+      <Position21>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="104" Column="6" TopLine="71"/>
+      </Position21>
+      <Position22>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="109" Column="22" TopLine="71"/>
+      </Position22>
+      <Position23>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="101" Column="43" TopLine="71"/>
+      </Position23>
+      <Position24>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="103" Column="45" TopLine="71"/>
+      </Position24>
+      <Position25>
+        <Filename Value="abstractclassexample.pas"/>
+        <Caret Line="44" Column="31" TopLine="8"/>
+      </Position25>
+      <Position26>
+        <Filename Value="PascalExample5.lpr"/>
+        <Caret Line="66" TopLine="62"/>
+      </Position26>
+      <Position27>
+        <Filename Value="inheritanceexample.pas"/>
+        <Caret Line="88" Column="10" TopLine="65"/>
+      </Position27>
+      <Position28>
+        <Filename Value="inheritanceexample.pas"/>
+        <Caret Line="114" Column="32" TopLine="82"/>
+      </Position28>
+      <Position29>
+        <Filename Value="inheritanceexample.pas"/>
+        <Caret Line="43" Column="28" TopLine="13"/>
+      </Position29>
+      <Position30>
+        <Filename Value="PascalExample5.lpr"/>
+        <Caret Line="69" TopLine="45"/>
+      </Position30>
     </JumpHistory>
   </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="CustomFile2"/>
+      </Item1>
+    </Watches>
+  </Debugging>
 </CONFIG>
